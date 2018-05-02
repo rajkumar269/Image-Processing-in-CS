@@ -1,4 +1,4 @@
-**# Image-Processing-in-C#**
+# **# Image-Processing-in-C#**
 
 This repository is designed for applying image processing techniques.
 
